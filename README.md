@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution(https://github.com/fuzail13/order-summary-component-main)
-- Live https://capstone-group-62-project.netlify.app/
+- [Solution](https://github.com/fuzail13/order-summary-component-main)
+- [Live](https://fuzail13.github.io/order-summary-component-main/)
 
 ## My process
 
