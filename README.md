@@ -98,18 +98,5 @@ body{
     background-repeat: no-repeat;
 }
 }
-```
 
-## Authors
-
-- Project Website - https://capstone-group-62-project.netlify.app/
-- Side Hustle - Adegboyega SH-IT-0075304
-- Side Hustle - Osazuwa-Ojo Victory SH-IT-0087734
-- Side Hustle - Chukwu Joseph SH-IT-0107838
-- Side Hustle - Afolabi Olanshile SH-IT-006681
-- Side Hustle - Adama Ojochege John Jnr SH-IT-0029720
-- Side Hustle - Kolapo Limah SH-IT-0056971
-- Side Hustle - Blessing Umana Eno SH-IT-0097188
-- Side Hustle - Onome Okosun SH-IT-0081806
-- Side Hustle - Omolusi Ayobami SH-IT-0039919
 
