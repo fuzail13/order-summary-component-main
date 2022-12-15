@@ -9,7 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
+
 
 
 ## Overview
@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/adeoyewole028/order-summary-component-main.git
-- Live Site URL: https://capstone-group-62-project.netlify.app/
+- Solution(https://github.com/fuzail13/order-summary-component-main)
+- Live https://capstone-group-62-project.netlify.app/
 
 ## My process
 
@@ -60,11 +60,8 @@ body {
   background-image: url(./images/pattern-background-desktop.svg);
   background-size: 100%;
 }
-```
 
-## What I, Osazuwa-Ojo Victory have learnt:
 
-```css
 /* Learnt adjusting and formatting of text colour and font.*/
 .cancel {
   padding: 20px;
@@ -79,8 +76,6 @@ body {
   
 }
 
-
-/* What I Adegboyega Have learnt */
 /* Learnt the @media query and how to display background pictures and colour*/
 @media(min-width: 376px) {
 body {
