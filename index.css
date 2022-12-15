@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+
+@media(min-width: 376px) {
+body {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 500, 700, 900;
+  font-size: 16px;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./images/pattern-background-desktop.svg");
+  background-size: 100% ;
+  background-color:  hsl(225, 100%, 94%);
+  background-repeat: no-repeat;
+}
+}
+
+@media(max-width: 375px){
+body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-color:  hsl(225, 100%, 94%);
+    background-repeat: no-repeat;
+}
+}
+
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.music-img {
+  background-image: url(./images/illustration-hero.svg);
+  background-repeat: no-repeat;
+  width: 450px;
+  height: 220px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.main-1 {
+  display: flex;
+  flex-direction: column;
+  background-size: contain;
+  width: 450px;
+  background-color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.order {
+  text-align: center;
+  font-weight: 900;
+  color:  hsl(223, 47%, 23%); 
+  font-size: 30px;
+  padding:20px;
+}
+
+.bio {
+  font-size: 15px;
+  text-align: center;
+  color: hsl(224, 23%, 55%);
+}
+
+.plans {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 10px;
+  background-color: hsl(225, 100%, 98%);
+  color:  hsl(223, 47%, 23%);
+  margin: 10px;
+  margin-left: 35px;
+  font-weight: 700;
+  border-radius: 5px;
+  height: 50px;
+  width: 360px
+}
+
+.plans p{
+  color: hsl(224, 23%, 55%) ;
+  font-weight: 500;
+  display: inline;
+}
+
+.song-icon {
+  background-image: url(./images/icon-music.svg);
+  padding: 24px;
+  background-repeat: no-repeat;
+}
+
+.annual-plan {
+  padding: 0px 20px;
+  margin-right: 90px;
+}
+
+.change {
+  padding: 10px 20px; 
+}
+
+.change a{
+  color: hsl(245, 75%, 52%); 
+}
+
+.change:hover > a {
+  color: #766CF1;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.payment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.proceed {
+  padding: 10px 130px;
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 10px;
+  border: none;
+  color: white;
+  box-shadow: 0px 6px 15px 0px hsl(224, 86%, 67%);
+  font-weight: 700;
+}
+
+.proceed:hover {
+  cursor: pointer;
+  background-color:#766CF1;
+}
+
+.cancel {
+  padding: 20px;
+  color: hsl(224, 23%, 55%) ;
+  font-weight: 700;
+}
+
+.cancel:hover {
+  font-weight: 800;
+  cursor: pointer;
+  color:  hsl(223, 47%, 23%); 
+  
+}
+
+.padding{
+  padding : 4px;
+}
